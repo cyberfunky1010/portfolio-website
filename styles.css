@@ -1000,6 +1000,13 @@ html {
       margin: 0 auto;
   }
 
+.experience-image {
+    background-color: rgba(255, 255, 255, 0.03);
+    padding: 10px;
+    border-radius: 12px;
+}
+
+
 .experience-timeline::before {
   content: '';
   position: absolute;
